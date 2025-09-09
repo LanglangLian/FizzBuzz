@@ -55,7 +55,7 @@ which enables basic typesetting when viewed while still being a plaintext format
 editing and version control.
 
 Below is a blank checkbox:
-- [ ] Put an X in the [ ] (with no spaces) to mark this as done!
+- [X] Put an X in the [ ] (with no spaces) to mark this as done!
 
 You can edit this file directly to check off these checkboxes throughout the lab to mark things as done.
 Do so now for the checkbox above.
@@ -156,6 +156,11 @@ own implementation in Python to help you begin to create a mapping between the t
 - [ ] Make note of any specific Java syntax which stands out to you and compare what you
 come up with the rest of your team. Try to come up with a list of at least five things that
 strike you as either similar to or different from Python.
+- for (int i = 1; i < 100; i++) is different.
+- {}
+- create variable: java has the type first
+- not elif; else if
+- print
 
 > Tip: IntelliJ works just like PyCharm, so you can place breakpoints and step through the code
 > using the debugger in the same way. You might find it informative to try stepping through the
