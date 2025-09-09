@@ -41,7 +41,7 @@ class FizzBuzz {
 
         }
 
-    private static void doFizzBuff(int j) {
+    static void doFizzBuff(int j) {
         boolean divisibleBy3 = j % 3 == 0;
         boolean divisibleBy5 = j % 5 == 0;
         if (divisibleBy3 && divisibleBy5) {
